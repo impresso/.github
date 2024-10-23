@@ -17,7 +17,7 @@ This GitHub organization hosts numerous repositories dedicated to:
 - code supporting research efforts;
 - code from student projects.
 
-More information and highlights to come as we progress!
+More information and highlights will be shared as we continue to make progress! In addition to the public repositories listed below, you can also check out our models on the [Impresso Hugging Face organisation](https://huggingface.co/impresso-project).
 
 ## Impresso 2 release history
 (to come)
