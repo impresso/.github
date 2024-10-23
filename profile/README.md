@@ -17,4 +17,7 @@ This GitHub organization hosts numerous repositories dedicated to:
 - code supporting research efforts;
 - code from student projects.
 
+More information and highlights to come as we progress!
 
+## Impresso 2 release history
+(to come)
